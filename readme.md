@@ -29,15 +29,28 @@ A markdown file-t sima Notepaddal, vagy Notepad++ segítségével meg tudjuk nyi
 Szerkesszük meg az oldalt. Erről részletesebben a [markdown nyelv](#a-markdown-nyelv) pontban írok, 
 de itt egy nagyon nagyon egyszerű példa:
 
-```# Példa cím
-Hello world```
+``# Példa cím
+Hello world``
 
 ## Megnyitás böngészőben
 Hogy a lokális file-ok böngkészőben megnyíljanak, szükség lesz egy markdown olvasó bővítményre. 
 
 Google Chrome-hoz például: https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl
 
+Ha ezt feltelepítettétek böngészővel is meg tudjátok nyitni a Markdown file-t. 
+- Jobbklikk -> Társítás -> Google Chrome 
+- Avagy csak ráhúzzátok (drag and drop) a file-t a böngészőre
+
+Ha követtétek az instrukciókat, az alábbiakat kell látnotok:
+
+
 ## A Markdown nyelv
+A Markdown nyelv egy nagyon-nagyon egyszerű szintaxis, mellyel egyszerű weboldalakat (html) lehet generálni. 
+Azzal a céllal hozták létre, hogy minimális szerkesztéssel nagyon szép, rendezett dokumentumokat lehessen vele létrehozni. 
+Részletesebben a Markdownról [itt](https://hu.wikipedia.org/wiki/Markdown). 
+
+Nagyon jó online tutoriálok léteznek (például [ez](https://www.markdownguide.org/basic-syntax/)), de ez alapokat lentebb is leírom, 
+ezeknél nincs is szükség többre. 
 
 ### Címek, alcímek, paragrafusok
 
