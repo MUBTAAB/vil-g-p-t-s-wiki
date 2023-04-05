@@ -29,8 +29,10 @@ A markdown file-t sima Notepaddal, vagy Notepad++ segítségével meg tudjuk nyi
 Szerkesszük meg az oldalt. Erről részletesebben a [markdown nyelv](#a-markdown-nyelv) pontban írok, 
 de itt egy nagyon nagyon egyszerű példa:
 
-``# Példa cím
-Hello world``
+```
+# Példa cím
+Hello world
+```
 
 ## Megnyitás böngészőben
 Hogy a lokális file-ok böngkészőben megnyíljanak, szükség lesz egy markdown olvasó bővítményre. 
@@ -53,6 +55,32 @@ Nagyon jó online tutoriálok léteznek (például [ez](https://www.markdownguid
 ezeknél nincs is szükség többre. 
 
 ### Címek, alcímek, paragrafusok
+```
+# Ez egy cím
+## Ez egy alcím
+### Még 
+#### Nagyon 
+##### Sok 
+###### Szint van
+Ez pedig simán maga a szöveg
+
+Új paragrafusokhoz csak hagyni kell egy üres sort a többi szöveg fölött
+```
+
+A következőket fogja produkálni
+---
+
+# Ez egy cím
+## Ez egy alcím
+### Még 
+#### Nagyon 
+##### Sok 
+###### Szint 
+Ez pedig simán maga a szöveg
+
+Új paragrafusokhoz csak hagyni kell egy üres sort a többi szöveg fölött
+
+---
 
 ### Képek
 
