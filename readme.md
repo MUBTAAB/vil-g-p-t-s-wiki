@@ -13,6 +13,7 @@ pl világépítést tartalmazó infókat.
 	- [Képek](#képek)
 	- [Linkek](#linkek)
 	- [Tartalomjegyzék](#tartalomjegyzék)
+- [Feltöltés online](#feltöltes-online)
 
 ## Létrehozás
 1. Létrehozunk egy üres mappát 
@@ -23,10 +24,17 @@ pl világépítést tartalmazó infókat.
 
 ## Szerkesztés
 A markdown file-t sima Notepaddal, vagy Notepad++ segítségével meg tudjuk nyitni. 
-- Jobbklikk -> Társítás -> NotepadS
+- Jobbklikk -> Társítás -> Notepad
+
+Szerkesszük meg az oldalt. Erről részletesebben a [markdown nyelv](#a-markdown-nyelv) pontban írok, 
+de itt egy nagyon nagyon egyszerű példa:
+
+```# Példa cím
+Hello world```
 
 ## Megnyitás böngészőben
 Hogy a lokális file-ok böngkészőben megnyíljanak, szükség lesz egy markdown olvasó bővítményre. 
+
 Google Chrome-hoz például: https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl
 
 ## A Markdown nyelv
