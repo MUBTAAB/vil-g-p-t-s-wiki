@@ -97,7 +97,7 @@ A másik oldalra a következőképpen hivatkozunk:
 
 Ez a következőképpen néz ki majd a wikinkben 
 
-A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](./egy_masik_markdown_file.md) és megy tovább a szöveg blababla
+"A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](./egy_masik_markdown_file.md) és megy tovább a szöveg blababla"
 
 #### Online weboldalak behivatkozása
 Természetesen online weboldalakra is lehet hivatkozni:
@@ -106,7 +106,7 @@ Természetesen online weboldalakra is lehet hivatkozni:
 
 Ez pedig így fog kinézni:
 
-A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) és megy tovább a szöveg blababla
+"A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) és megy tovább a szöveg blababla"
 
 #### Egy másik pont behivatkozása ugyanazon az oldalon
 Itt egyszerűen csak "#" jellel megjelölve be kell írni a címet, vagy alcímet, szóközök helyett "-" jelet kell írni. 
@@ -118,7 +118,7 @@ Ez a link a "Megnyitás böngészőben" c. fejezetre fog [mutatni](#Megnyitás-b
 
 A következőt adja: 
 
-Ez a link a "Megnyitás böngészőben" c. fejezetre fog [mutatni](#Megnyitás-böngészőben) ugyanezen az oldalon
+"Ez a link a "Megnyitás böngészőben" c. fejezetre fog [mutatni](#Megnyitás-böngészőben) ugyanezen az oldalon"
 
 
 
