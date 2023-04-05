@@ -14,7 +14,7 @@ nem tudnak és nem is akarnak megtanulni kódolni.
 2. [Szerkesztés](#szerkesztés)
 3. [Megnyitás böngészőben](#megnyitás-böngészőben)
 4. [A markdown nyelv](#a-markdown-nyelv)
-	- [Címek, alcímek, paragrafusok](#cimek-alcimek-paragrafusok)
+	- [Címek, alcímek, paragrafusok](#c%C3%ADmek-alc%C3%ADmek-paragrafusok)
 	- [Képek](#képek)
 	- [Linkek](#linkek)
 	- [Tartalomjegyzék](#tartalomjegyzék)
