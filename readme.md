@@ -2,12 +2,12 @@
 
 ## Tartalom
 - [Létrehozás és szerkesztés](#létrehozás-és-szerkesztés)
-- [Megnyitás böngészőben](#megnyitas-böngészőben)
+- [Megnyitás böngészőben](#megnyitás-böngészőben)
 - [A markdown nyelv](#a-markdown-nyelv)
 	- [CÍmek, alcímek, paragrafusok](#cimek-alcimek-paragrafusok)
-	- [Képek](#kepek)
+	- [Képek](#képek)
 - [Linkek](#linkek)
-- [Tartalomjegyzék](#tartalomjegyzek)
+- [Tartalomjegyzék](#tartalomjegyzék)
 
 ## Létrehozás és szerkesztés
 
