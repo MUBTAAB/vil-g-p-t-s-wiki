@@ -177,7 +177,7 @@ Ennek az oldalnak a tartalomjegyzéke például így néz ki:
 ```
 
 ## Feltöltés online
-Ha github-on vagy bitbucket-en létrehozunk egy publikus repository-t, oda bemásoljuk a markdown file-okat, az megjelenik böngészőből. Ennek megnyitásához nincs szükség böngészős bővítményekre sem, melyekkel [fentebb](#megnyitás-böngészőben) foglalkoztam. 
+Ha github-on vagy bitbucket-en létrehozunk egy publikus repository-t, oda bemásoljuk a markdown file-okat, az megjelenik böngészőből. Ennek megnyitásához nincs szükség böngészős bővítményekre sem, melyekkel [fentebb](#megnyitás-böngészőben) foglalkoztam. Ez az oldal is így készült. 
 
 
 Szükség esetén erről, illete néhány egyéb módszerről (interaktív térkép, képek formázása, html, github pages)  írhatok egy haladó tutorialt. 
