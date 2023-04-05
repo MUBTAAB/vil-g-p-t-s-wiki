@@ -1,8 +1,8 @@
 # Wikipédia jellegű oldal világépítéshez 
 
 ## Tartalom
-- [Létrehozás és szerkesztés](#letrehozas-es-szerkesztes)
-- [Megnyitás böngészőben](#megnyitas-bongeszoben)
+- [Létrehozás és szerkesztés](#letrehozás-és-szerkesztés)
+- [Megnyitás böngészőben](#megnyitas-böngészőben)
 - [A markdown nyelv](#a-markdown-nyelv)
 	- [CÍmek, alcímek, paragrafusok](#cimek-alcimek-paragrafusok)
 	- [Képek](#kepek)
