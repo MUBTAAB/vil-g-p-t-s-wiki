@@ -78,9 +78,11 @@ A fenti kód következőket fogja produkálni:
 ### Képek
 Magát a kép file-t közvetlenül a Markdown mellé kell rakni. 
 Képeket az alábbi módon tudsz beágyazni.
+
 `![image](./a_kep_file_neve.jpg)`
 
 Egy online kép linkről is beágyazható, egyszerűen a zárójelbe a linket kell rakni.
+
 `![image](https://user-images.githubusercontent.com/22019900/230036697-92001829-dad2-4283-801e-b52b57b5403d.png)`
 
 ### Linkek
@@ -89,13 +91,17 @@ Ha több oldalunk van, azok mutathatnak egymásra. Ilyenkor egyszerűen egymás 
 ![image](https://user-images.githubusercontent.com/22019900/230040948-bc82e8f8-4b3c-49a4-ba9f-4541a9dc20e7.png)
 
 A másik oldalra a következőképpen hivatkozunk: 
+
 `A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](./egy_masik_markdown_file.md) és megy tovább a szöveg blababla`
+
 Ez a következőképpen néz ki majd a wikinkben 
 
 A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](./egy_masik_markdown_file.md) és megy tovább a szöveg blababla
 
 Természetesen online weboldalakra is lehet hivatkozni:
+
 `A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) és megy tovább a szöveg blababla`
+
 Ez pedig így fog kinézni:
 
 A szöveg amelybe a linket ágyazzuk [a szövegrész amelyről kattintható a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) és megy tovább a szöveg blababla
